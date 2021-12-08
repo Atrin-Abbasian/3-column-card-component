@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- GitHub URL: [GitHub Repository](https://github.com/AtrinDev/intro-component-with-signup-form)
+- GitHub URL: [GitHub Repository](https://github.com/AtrinDev/3-column-card-component)
 - Live Site URL: [GitHub Pages](https://atrindev.github.io/3-column-card-component/)
 
 ## My process
