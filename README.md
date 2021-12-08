@@ -5,6 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -22,6 +23,11 @@ Users should be able to:
 ### Screenshot
 
 ![](design/desktop-design.jpg)
+
+### Links
+
+- GitHub URL: [GitHub Repository](https://github.com/AtrinDev/intro-component-with-signup-form)
+- Live Site URL: [GitHub Pages](https://atrindev.github.io/3-column-card-component/)
 
 ## My process
 
